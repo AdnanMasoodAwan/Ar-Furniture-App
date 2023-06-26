@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "420770051768",
+    "firebase_url": "https://ar-furniture-app-ee1a6-default-rtdb.firebaseio.com",
+    "project_id": "ar-furniture-app-ee1a6",
+    "storage_bucket": "ar-furniture-app-ee1a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420770051768:android:e96ae6c74d1e6f31a4e64d",
+        "android_client_info": {
+          "package_name": "com.example.modernfurniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420770051768-2ep1qbgquv02r57hkhlj6iqnr9fqcsbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.modernfurniture",
+            "certificate_hash": "4f931c1aeb86c4645e0f4e4370251c8a8b919670"
+          }
+        },
+        {
+          "client_id": "420770051768-ld68v8tosfpq5c2fuo2rao3p5iqouddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSHdShG6QKO40maa9XhOpVW3bKr2CETvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420770051768-ld68v8tosfpq5c2fuo2rao3p5iqouddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
