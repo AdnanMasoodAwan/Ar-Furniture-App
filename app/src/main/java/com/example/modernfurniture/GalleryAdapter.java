@@ -16,7 +16,7 @@ import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
-public class GalleryAdapter extends RecyclerView.Adapter<GalleryAdapter.GalleryViewHolder>{
+public class     GalleryAdapter extends RecyclerView.Adapter<GalleryAdapter.GalleryViewHolder>{
     public ArrayList<Products> ulist;
     public ArrayList<Products> filteredList;
     private Context context;
